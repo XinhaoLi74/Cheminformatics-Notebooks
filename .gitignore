@@ -1,0 +1,10 @@
+# ignore fire: e.g., 'a.txt'
+
+# Ignore folder
+
+
+
+# Ignore all .txt file: '*.txt'
+
+
+**/*.ipynb_checkpoints/
